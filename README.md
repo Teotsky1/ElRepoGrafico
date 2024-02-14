@@ -7,8 +7,13 @@
 
 ### Teo
 
+![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/6f35d173-8c89-406a-a8e4-a2764822c823)
+
+
 ### Fantastico
 
 ### Josue
 
 ### Ana
+
+(https://youtu.be/ykTcuLklMDQ)
