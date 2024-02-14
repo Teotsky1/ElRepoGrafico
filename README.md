@@ -7,7 +7,8 @@
 
 ### Teo
 
-![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/6f35d173-8c89-406a-a8e4-a2764822c823)
+![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/13746b04-f70d-4423-84a8-4127ad1fdf80)
+
 [Teotsky](https://youtu.be/xAzPfnZOJtI)
 
 
