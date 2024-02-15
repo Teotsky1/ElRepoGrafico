@@ -14,9 +14,9 @@
 
 ### Fantastico
 
-### Josue
+### Josue
 
-### Ana
+### Ana
 
 
 [Ana](https://youtu.be/ykTcuLklMDQ)
