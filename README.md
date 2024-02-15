@@ -13,6 +13,8 @@
 
 
 ### Fantastico
+![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/e7977fbf-3e05-4cf1-a026-faa1bc35be92)
+[Fantas](https://youtu.be/PHAJYdoiArQ)
 
 ### Josue
 
