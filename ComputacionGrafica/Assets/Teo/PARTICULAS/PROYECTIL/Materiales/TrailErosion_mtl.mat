@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 2f9fa8fd65f9a0a4ba75de547693c29f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ErosionMap:
@@ -75,7 +75,7 @@ Material:
     - _Cull: 2
     - _DstBlend: 10
     - _EMISSION: 1
-    - _HolaMundo: 0
+    - _HolaMundo: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
