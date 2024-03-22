@@ -1,4 +1,6 @@
 # Entregas
+<details>
+<summary>Examen Tornado</summary>
 
 ## Examen Tornado
 
@@ -26,4 +28,5 @@
 
 
 [Ana](https://youtu.be/ykTcuLklMDQ)
+</details>
 
