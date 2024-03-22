@@ -1,6 +1,6 @@
 # Entregas
 <details>
-<summary>Examen Tornado</summary>
+<summary>Entrega 1</summary>
 
 ## Examen Tornado
 
@@ -30,3 +30,26 @@
 [Ana](https://youtu.be/ykTcuLklMDQ)
 </details>
 
+
+<details>
+<summary>Entrega2</summary>
+
+  ### ESCUDO DE FUEGO
+
+  ## Preview
+
+![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/df23e410-5979-43ba-8c1c-465fd6cd6877)
+
+
+  ## Video
+  [YT](https://youtu.be/_bWQj_OWy_Q?si=pm9fuFcVC6jHVOfl)
+
+  ## Link Directo A Las Carpetas
+  [Git]()
+
+[Link a Trello](https://trello.com/invite/b/f0urg0JA/ATTIb644f5e138178970dd21428fd4ee4859B3171D3A/entregacomputaciongrafica)
+
+
+
+  
+</details>
