@@ -42,12 +42,15 @@
 
 
   ## Video
-  [YT](https://youtu.be/_bWQj_OWy_Q?si=pm9fuFcVC6jHVOfl)
+  [Escudo de fuego](https://youtu.be/_bWQj_OWy_Q?si=pm9fuFcVC6jHVOfl)
 
-  ## Link Directo A Las Carpetas
-  [Git](https://github.com/Teotsky1/ElRepoGrafico/tree/main/ComputacionGrafica/Assets/ESCUDODEFUEGO)
 
-[Link a Trello](https://trello.com/invite/b/f0urg0JA/ATTIb644f5e138178970dd21428fd4ee4859B3171D3A/entregacomputaciongrafica)
+  ## Carpeta
+  [Link Directo A Las Carpetas](https://github.com/Teotsky1/ElRepoGrafico/tree/main/ComputacionGrafica/Assets/ESCUDODEFUEGO)
+
+
+
+  [Link a Trello](https://trello.com/invite/b/f0urg0JA/ATTIb644f5e138178970dd21428fd4ee4859B3171D3A/entregacomputaciongrafica)
 
 
 
