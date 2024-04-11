@@ -37,6 +37,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Displace_1:
+        m_Texture: {fileID: 2800000, guid: 153ab69ac08867a45af81175b171168a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Displace_2:
+        m_Texture: {fileID: 2800000, guid: e9856f7a83dd86a42b29da081331a1da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionMap:
+        m_Texture: {fileID: 8900000, guid: 87cf6312bcd1d0443a2792dbbc1160d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -51,12 +63,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NoiseVel: 0.214
+    - _CellDensity: 26.81
+    - _DisplacePower: 0.37
+    - _FoamSpeed: 5.68
+    - _NoiseScale: 35.9
+    - _NoiseVel: 0.093
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _SpecularReflections: 2.3
     m_Colors:
     - _DeepColor: {r: 0, g: 0.04369417, b: 0.41509432, a: 1}
-    - _RefracInten: {r: 0.4, g: 0.9, b: 0, a: 0}
-    - _ScatterThresHold: {r: 2.49, g: 2.77, b: 0, a: 0}
+    - _RefracInten: {r: 0.16, g: 0.69, b: 0, a: 0}
+    - _ScatterThresHold: {r: 0.69, g: 2.77, b: 0, a: 0}
     - _ShallowColor: {r: 0, g: 0.81819487, b: 1, a: 0}
+    - _TukiFoam: {r: 0.96, g: 1.14, b: 0, a: 0}
   m_BuildTextureStacks: []
