@@ -25,7 +25,7 @@
 ### Josue
 
 ### Ana
-
+![Captura de pantalla 2024-04-12 134841](https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/9ff7bcce-0386-4496-a578-47e52e4960f2)
 
 [Ana](https://youtu.be/ykTcuLklMDQ)
 </details>
@@ -53,6 +53,7 @@
   [Link a Trello](https://trello.com/invite/b/f0urg0JA/ATTIb644f5e138178970dd21428fd4ee4859B3171D3A/entregacomputaciongrafica)
 
 
-
-  
 </details>
+
+<details>
+<summary>Entrega3</summary>
