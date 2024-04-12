@@ -71,3 +71,13 @@ Efecto funcionando (Y sliders):
 https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/dc6a273e-bb3c-4f78-af97-1af18192f3cc 
 
 -Ana.
+
+### Movimiento de humo
+Árbol de nodos:
+![Captura de pantalla 2024-04-12 145641](https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/acce725b-3684-42d1-82d9-185a2113421e)
+
+Efecto funcionando (Y sliders):
+
+https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f8c-21eabddbe1e3
+
+-Ana.
