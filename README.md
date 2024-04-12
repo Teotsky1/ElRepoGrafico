@@ -57,3 +57,17 @@
 
 <details>
 <summary>Entrega3</summary>
+
+## Actividad 03, Shaders.
+[Documento ejercicios ](https://docs.google.com/document/d/1lypm54xDiSl54adG1YEZ0CX4gB8Znbgbm1eqvY5LUDI/edit?usp=sharing)
+
+
+### Distorsión
+Árbol de nodos:
+![Captura de pantalla 2024-04-12 135718](https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d5ed37fa-35df-45fa-bc4a-76f0d5697e7b)
+
+Efecto funcionando (Y sliders):
+
+https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/dc6a273e-bb3c-4f78-af97-1af18192f3cc 
+
+
