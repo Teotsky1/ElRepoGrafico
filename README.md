@@ -70,4 +70,4 @@ Efecto funcionando (Y sliders):
 
 https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/dc6a273e-bb3c-4f78-af97-1af18192f3cc 
 
-
+-Ana.
