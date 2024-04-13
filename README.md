@@ -64,8 +64,11 @@
 
 <details>
   <summary>Ana Diaz</summary>
+  
   ### Distorsión
+  
 Árbol de nodos:
+
 ![Captura de pantalla 2024-04-12 135718](https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d5ed37fa-35df-45fa-bc4a-76f0d5697e7b)
 
 Efecto funcionando (Y sliders):
