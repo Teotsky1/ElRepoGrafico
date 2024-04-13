@@ -91,8 +91,11 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 
 <details>
   <summary>Juan Suarez</summary>
+  
 ## 1.Erosión(Disolver con ruido)
+
 ![MascaraRuido](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/d19405ac-cb62-4d32-a1ef-c42d163c4d13)
+
 ![MascaraRuido2](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/d1cf075c-7c52-4451-a1ed-6353876b8a0b)
 
 ## 2.Disolver Textura Pre Creada
