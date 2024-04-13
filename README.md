@@ -61,7 +61,8 @@
 ## Actividad 03, Shaders.
 [Documento ejercicios ](https://docs.google.com/document/d/1lypm54xDiSl54adG1YEZ0CX4gB8Znbgbm1eqvY5LUDI/edit?usp=sharing)
 
-  -<details>
+
+<details>
   <summary>Ana Diaz</summary>
   ### Distorsión
 Árbol de nodos:
