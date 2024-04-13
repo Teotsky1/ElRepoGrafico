@@ -81,3 +81,15 @@ Efecto funcionando (Y sliders):
 https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f8c-21eabddbe1e3
 
 -Ana.
+
+# 👇👇👇Inicio ejercicios Juan Suarez 👇👇👇
+## 1.Erosión(Disolver con ruido)
+![MascaraRuido](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/d19405ac-cb62-4d32-a1ef-c42d163c4d13)
+![MascaraRuido2](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/d1cf075c-7c52-4451-a1ed-6353876b8a0b)
+
+## 2.Disolver Textura Pre Creada
+
+![estrella](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/9adfd84c-1b1a-4ff6-8a80-53418f2e6d18)
+
+![2 Estrella](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/dcd8c4af-9199-4f22-a4f6-983036f6debb)
+# 👆👆👆Fin ejercicios Juan Suarez👆👆👆
