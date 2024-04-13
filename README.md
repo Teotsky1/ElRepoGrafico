@@ -115,4 +115,7 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 
   [Link a Youtube](https://youtu.be/22JIve-L8jE)
 
+  ![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/c18e14b8-495c-4e37-8abd-d86b4e2a86b5)
+
+
 </details>
