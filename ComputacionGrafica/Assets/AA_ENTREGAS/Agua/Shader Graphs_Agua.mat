@@ -68,7 +68,7 @@ Material:
     - _LinearInterpol: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Specular: 0
+    - _Specular: 5
     m_Colors:
     - _DeepColor: {r: 0, g: 0.13891004, b: 0.3490566, a: 0}
     - _FoamColor: {r: 1.2403778, g: 1.3689047, b: 1.4062037, a: 0.23529412}
