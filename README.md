@@ -77,7 +77,10 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/dc6a273e-bb3c-4f78-af
 
 
 ### Movimiento de humo
+
+
 Árbol de nodos:
+
 ![Captura de pantalla 2024-04-12 145641](https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/acce725b-3684-42d1-82d9-185a2113421e)
 
 Efecto funcionando (Y sliders):
