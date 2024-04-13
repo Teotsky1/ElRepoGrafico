@@ -61,8 +61,12 @@
 ## Actividad 03, Shaders.
 [Documento ejercicios ](https://docs.google.com/document/d/1lypm54xDiSl54adG1YEZ0CX4gB8Znbgbm1eqvY5LUDI/edit?usp=sharing)
 
-
-### Distorsión
+<details>
+  <summary>Click para ver la lista</summary>
+  
+  -<details>
+  <summary>Ana Diaz</summary>
+  ### Distorsión
 Árbol de nodos:
 ![Captura de pantalla 2024-04-12 135718](https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d5ed37fa-35df-45fa-bc4a-76f0d5697e7b)
 
@@ -70,7 +74,6 @@ Efecto funcionando (Y sliders):
 
 https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/dc6a273e-bb3c-4f78-af97-1af18192f3cc 
 
--Ana.
 
 ### Movimiento de humo
 Árbol de nodos:
@@ -80,9 +83,10 @@ Efecto funcionando (Y sliders):
 
 https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f8c-21eabddbe1e3
 
--Ana.
+</details>
 
-# 👇👇👇Inicio ejercicios Juan Suarez 👇👇👇
+<details>
+  <summary>Juan Suarez</summary>
 ## 1.Erosión(Disolver con ruido)
 ![MascaraRuido](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/d19405ac-cb62-4d32-a1ef-c42d163c4d13)
 ![MascaraRuido2](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/d1cf075c-7c52-4451-a1ed-6353876b8a0b)
@@ -92,4 +96,8 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 ![estrella](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/9adfd84c-1b1a-4ff6-8a80-53418f2e6d18)
 
 ![2 Estrella](https://github.com/Teotsky1/ElRepoGrafico/assets/14959619/dcd8c4af-9199-4f22-a4f6-983036f6debb)
-# 👆👆👆Fin ejercicios Juan Suarez👆👆👆
+</details>
+
+
+</details>
+
