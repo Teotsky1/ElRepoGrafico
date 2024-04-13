@@ -117,5 +117,17 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 
   ![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/c18e14b8-495c-4e37-8abd-d86b4e2a86b5)
 
+  ![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/0901f92e-56f5-493c-ac6b-f2fe9e1b4f23)
+
+  ![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/1de77b87-a846-4af2-b484-967be8efe112)
+
+  ![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/7d86cf5b-0b11-4751-8350-7ed36ecbe12d)
+
+  ![image](https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/f946988b-8d0d-4d6f-a825-0cd4ed8736c1)
+
+
+
+
+
 
 </details>
