@@ -113,6 +113,6 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 <details>
   <summary>Entrega 4</summary>
 
-  ![Link a Youtube:](https://youtu.be/22JIve-L8jE)
+  [Link a Youtube](https://youtu.be/22JIve-L8jE)
 
 </details>
