@@ -122,6 +122,8 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
   
   ### Máscara Radial
 
+  ![](https://github.com/jfUPB/ElRepoGrafico/blob/main/ComputacionGrafica/Assets/Mascara.gif)
+
 </details>
 
 </details>
