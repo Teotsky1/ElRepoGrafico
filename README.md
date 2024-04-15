@@ -128,7 +128,26 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 
 </details>
 
-</details>
+<details>
+  
+  <summary>Juli Olarte</summary>
+
+  ### Textura en espejo
+  ![](https://github.com/Teotsky1/ElRepoGrafico/assets/111312908/5748ca1b-f7c7-4d5f-8538-281d08ac6173)
+  
+  ![](https://github.com/Teotsky1/ElRepoGrafico/assets/111312908/d1cf0a80-e281-4d51-a204-2f5895214abb)
+  
+  
+  ### Máscara Multicanal
+  ![](https://github.com/Teotsky1/ElRepoGrafico/assets/111312908/d1c618bb-ef3b-45b3-8294-6983778b92f8)
+  
+  ![](https://github.com/Teotsky1/ElRepoGrafico/assets/111312908/746ec7af-0492-43e7-ac02-a67a800c4932)
+
+</details>  
+
+
+</details>!
+
 
 <details>
   <summary>Entrega 4</summary>
