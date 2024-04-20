@@ -66,12 +66,14 @@
   <summary> Teo </summary>
 
 
+### Coordenadas polares
+
 
 
 https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/37af1279-a303-428b-a4a5-58a64b6b01c2
 
 
-
+### Disolver con ruido
 
 https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/d920a82b-21f6-4bce-b327-02df37d13cee
 
