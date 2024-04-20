@@ -63,6 +63,18 @@
 
 
 <details>
+  <summary> Teo </summary>
+
+https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/d364571e-d9fd-4cd0-b9b0-3e5a1df50322
+
+
+
+
+
+</details>
+
+
+<details>
   <summary>Ana Diaz</summary>
   
   ### Distorsión
