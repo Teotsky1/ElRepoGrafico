@@ -194,3 +194,35 @@ https://github.com/Teotsky1/ElRepoGrafico/assets/110044768/d0cfc5f9-c04f-45f9-9f
 
 
 </details>
+
+
+
+<details>
+<summary>Entrega 5 </summary>
+
+### Distortion
+
+
+
+https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/3ba9a226-5202-499e-994b-953809597be3
+
+
+
+
+### Vignette
+
+
+
+
+https://github.com/Teotsky1/ElRepoGrafico/assets/111305370/256a4465-2a56-4d16-aad9-3e586467417c
+
+
+
+### Aberracion Cromatica
+
+### Desenfoque De Profundidad
+
+
+
+
+</details>
