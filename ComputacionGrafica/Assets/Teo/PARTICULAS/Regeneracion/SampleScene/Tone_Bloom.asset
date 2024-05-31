@@ -1,5 +1,30 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6599302842398910641
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0bb44fe87431ed4791f6ec05e1faae0, type: 3}
+  m_Name: CustomDepthOfField
+  m_EditorClassIdentifier: 
+  active: 0
+  blurAmount:
+    m_OverrideState: 1
+    m_Value: 0
+  blurDistance:
+    m_OverrideState: 1
+    m_Value: -164
+  focalPoint:
+    m_OverrideState: 1
+    m_Value: 4.84
+  aperture:
+    m_OverrideState: 1
+    m_Value: 10
 --- !u!114 &-4177082279315204498
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -62,6 +87,10 @@ MonoBehaviour:
   components:
   - {fileID: 419443240075928729}
   - {fileID: -4177082279315204498}
+  - {fileID: 1529027755048791369}
+  - {fileID: -6599302842398910641}
+  - {fileID: 4772649233757138497}
+  - {fileID: 7664878082466626547}
 --- !u!114 &419443240075928729
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -102,3 +131,75 @@ MonoBehaviour:
   maxNits:
     m_OverrideState: 0
     m_Value: 1000
+--- !u!114 &1529027755048791369
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1510a15166bee8e40b96cab0f5ff191f, type: 3}
+  m_Name: ScreenSpaceDistortion
+  m_EditorClassIdentifier: 
+  active: 1
+  distortionAmount:
+    m_OverrideState: 1
+    m_Value: 0
+  distortionNormalMap:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: e9856f7a83dd86a42b29da081331a1da, type: 3}
+  distortionVelocity:
+    m_OverrideState: 1
+    m_Value: {x: 0, y: 0}
+--- !u!114 &4772649233757138497
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f968044e28af1143a38d64315072bb5, type: 3}
+  m_Name: CustomChromaticAberration
+  m_EditorClassIdentifier: 
+  active: 0
+  redShift:
+    m_OverrideState: 1
+    m_Value: 0
+  greenShift:
+    m_OverrideState: 1
+    m_Value: 0
+  blueShift:
+    m_OverrideState: 1
+    m_Value: 0
+--- !u!114 &7664878082466626547
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d3a66b89d7c114abe1a556d64c2fb9, type: 3}
+  m_Name: RadialTextureVignetteMasked
+  m_EditorClassIdentifier: 
+  active: 1
+  vignetteMaskIntensity:
+    m_OverrideState: 1
+    m_Value: 0.64
+  vignettePower:
+    m_OverrideState: 1
+    m_Value: 0.63
+  overlayTexture:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: 971100df605e302439bff9691dbee3fa, type: 3}
+  overlayTextureTint:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0.30813646, b: 1, a: 1}
+  overlayTextureVelocity:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 2}
